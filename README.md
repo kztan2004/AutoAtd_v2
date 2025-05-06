@@ -1,4 +1,4 @@
-# AutoAtd_v2 – Automated Attendance Taker 👀
+# AutoAtd_v2 – Automated Attendance Taker 
 
 AutoAtd_v2 is a lightweight Python tool that automatically detects and scans attendance links on the CLiC platform using computer vision and browser automation.
 
